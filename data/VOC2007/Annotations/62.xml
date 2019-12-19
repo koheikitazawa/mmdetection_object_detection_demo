@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>0.jpg</filename>
-	<path>/Users/koheikitazawa/workspace/python/mmdetection_object_detection_demo/data/VOC2007/JPEGImages/0.jpg</path>
+	<filename>62.jpg</filename>
+	<path>/Users/koheikitazawa/workspace/python/mmdetection_object_detection_demo/data/VOC2007/JPEGImages/62.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
-			<ymin>80</ymin>
-			<xmax>366</xmax>
-			<ymax>340</ymax>
+			<xmin>53</xmin>
+			<ymin>121</ymin>
+			<xmax>189</xmax>
+			<ymax>258</ymax>
 		</bndbox>
 	</object>
 </annotation>
