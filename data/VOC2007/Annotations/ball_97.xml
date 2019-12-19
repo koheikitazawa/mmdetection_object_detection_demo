@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>ball_97.jpg</filename>
+	<path>/Users/koheikitazawa/workspace/python/mmdetection_object_detection_demo/data/VOC2007/JPEGImages/ball_97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>126</ymin>
+			<xmax>401</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>
